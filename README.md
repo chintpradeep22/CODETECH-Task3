@@ -47,4 +47,4 @@
 - **Challenges**: Ensuring the security of transactions, optimizing load times, and providing a seamless user experience.
 - **Outcomes**: Developed a functional and attractive e-commerce platform with positive user feedback and increased sales.
 
-**Website Prototype:** https://www.figma.com/proto/LViWVHHnftFpS5Jclweiw9/CODETECH-Task-1?node-id=0-1&t=GoQ2HCp7s4bdXQzZ-1
+**Website Prototype:** https://www.figma.com/proto/Faj3gt39Q8jdFBGIyhK5rH/CODE_TECH-E-Commerce-Task3?node-id=0-1&t=fsfnf0zFuAC0fmpC-1

@@ -3,7 +3,7 @@
 **ID:** CT6WDS1361 <br>
 **Domain:** UI/UX DESIGN <br>
 **Duration:** JULY to AUGUST 2024 <br>
-**Mentor:** <br>
+**Mentor:** Santhosh kumar<br>
 # OverView
 **Project**: E-COMMERCE WEBSITE REDESIGN <be>
 
